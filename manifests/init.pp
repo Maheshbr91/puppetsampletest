@@ -43,6 +43,7 @@
 # Copyright 2018 Your name here, unless otherwise noted.
 #
 class samplefile {
-
-
+file {'/root/sampledir':
+dir =>'present',
+}
 }
