@@ -44,6 +44,6 @@
 #
 class samplefile {
 file {'/root/sampledir':
-dir =>'present',
+file =>'present',
 }
 }
